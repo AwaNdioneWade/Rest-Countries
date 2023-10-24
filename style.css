@@ -1,0 +1,25 @@
+input{
+    height: 40px;
+}
+
+#search{
+    width: 100%;
+}
+
+.modeDark{
+    background-color: hsl(207, 26%, 17%);
+    color: hsl(0, 0%, 100%);
+}
+
+.modelight{
+    background: hsl(0, 0%, 98%);
+    color: hsl(207, 26%, 17%);
+}
+
+.entete{
+    background-color: hsl(0, 0%, 100%);    
+}
+
+#mode{
+    cursor: pointer;
+}
